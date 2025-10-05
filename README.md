@@ -3,10 +3,10 @@
 A modern, responsive search engine for NASA space biology research articles with advanced filtering capabilities and Firebase Realtime Database integration.
 
 ## Live Demo
-(Space Bio Explorer)[https://n08e48j2n8h1-deploy.space.z.ai/]
+(Space Bio Explorer) [https://n08e48j2n8h1-deploy.space.z.ai/]
 
 ## AI Model
-(Space Bio AI Model)[https://huggingface.co/Gka60/space-apps-challenge-1000]
+(Space Bio AI Model) [https://huggingface.co/Gka60/space-apps-challenge-1000]
 
 ## Features
 
